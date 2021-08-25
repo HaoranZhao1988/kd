@@ -1,2 +1,2 @@
 # kd
-Knwoledge Distillation via 
+Knwoledge Distillation via Instance-level Sequence Learning
